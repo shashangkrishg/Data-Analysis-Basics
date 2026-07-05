@@ -1,5 +1,9 @@
 # 📊 Data Analysis Basics with Excel
 
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green?logo=microsoft-excel)
+![Beginner](https://img.shields.io/badge/Level-Beginner-blue)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 ## 📌 Project Overview
 
 This project demonstrates basic data analysis techniques using Microsoft Excel. The dataset contains over **32,000 Data Analyst job postings** from 2023 and is used to perform simple data cleaning, summarization, and statistical analysis.
